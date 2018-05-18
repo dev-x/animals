@@ -2,7 +2,7 @@
 
 namespace Team68\Animals;
 
-class Rabbit (){
+class Rabbit {
 	
 	function run (){
 		
